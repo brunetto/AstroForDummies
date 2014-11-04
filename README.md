@@ -1,7 +1,9 @@
 AstroForDummies
 ===============
 
-Short summary of astro* arguments we collected during our courses and PhDs
+Short summary of astro* arguments we collected during our courses and PhDs.
+
+The first pieces are a (rough) translation of Marco Berton latex notes, then I/we will update and improve them with ours.
 
 ## Chapters 
 
